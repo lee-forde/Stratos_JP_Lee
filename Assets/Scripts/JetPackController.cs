@@ -5,7 +5,7 @@ using UnityEngine;
 public class JetPackController : MonoBehaviour {
 
     private Rigidbody2D rb2d;
-    public float jetpackForce = 75.0f;
+    public float jetpackForce = 20.0f;
 
 
     // Use this for initialization
